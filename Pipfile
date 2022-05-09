@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 Pygments = "*"
 codecov = "==2.1.12"
-coverage = "==5.5"
+coverage = "==6.3.2"
 dill = "==0.3.3"
 docker = "==5.0.0"
 flake8 = "==3.9.0"
