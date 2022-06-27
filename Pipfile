@@ -5,7 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 Pygments = "*"
-codecov = "==2.1.11"
+codecov = "==2.1.12"
 coverage = "==5.5"
 dill = "==0.3.3"
 docker = "==5.0.0"
