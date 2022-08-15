@@ -7,7 +7,7 @@ verify_ssl = true
 Pygments = "*"
 black = "== 22.6.0"
 codecov = "==2.1.12"
-coverage = "==5.5"
+coverage = "==6.4.3"
 dill = "==0.3.3"
 docker = "==5.0.0"
 flake8 = "==3.9.0"
