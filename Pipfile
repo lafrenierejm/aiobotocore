@@ -18,7 +18,7 @@ isort = "== 5.10.1"
 pytest = "==7.1.2"
 pytest-asyncio = "==0.19.0"
 pytest-cov = "==3.0.0"
-pytest-xdist = "==2.2.1"
+pytest-xdist = "==2.5.0"
 moto = {extras = ["server", "s3", "sqs", "lambda", "dynamodb", "cloudformation", "sns", "batch", "ec2", "rds"],version = "~=2.2.19"}
 
 [packages]
